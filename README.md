@@ -1,2 +1,2 @@
-# bon-openai
+# bon-ai
 AI APIs implementation project
